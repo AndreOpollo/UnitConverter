@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">UnitConverter</string>
+
+    <string name="enter_value_here">Enter Value here</string>
+    <string name="select_the_units_below">Select the units below</string>
+    <string name="kilograms">Kilograms</string>
+    <string name="pounds">Pounds</string>
+    <string name="grams">Grams</string>
+    <string name="tonnes">Tonnes</string>
+    <string name="convert_to">Convert to?</string>
+    <string name="result">Result</string>
+    <string name="round_off">Round off?</string>
+    <string name="convert">Convert</string>
+    />
+</resources>
